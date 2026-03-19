@@ -20,7 +20,8 @@ I organize my solutions by overarching topic to easily review concepts:
 
 | # | Problem Title | Difficulty | Topic | Time Complexity | Space Complexity |
 | :--- | :--- | :---: | :--- | :---: | :---: |
-| 0003. | [ Longest Substring Without Repeating Characters](link_to_your_file.py) | 🟡 Medium | Strings | $O(N)$ | $O(N)$ |
+| 0003. | [ Longest Substring Without Repeating Characters](link_to_your_file.py) | 🟡 Medium | Strings | $7
+ms$ | $O(N)$ |
 
 
 *(Note: Click the problem title to view my documented solution)*
