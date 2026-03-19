@@ -20,7 +20,7 @@ I organize my solutions by overarching topic to easily review concepts:
 
 | # | Problem Title | Difficulty | Topic | Time Complexity | Space Complexity |
 | :--- | :--- | :---: | :--- | :---: | :---: |
-| 0003. | [ Longest Substring Without Repeating Characters](Algorithm.py) | 🟡 Medium | Strings | 7ms | 19.32 MB |
+| 0003. | [ Longest Substring Without Repeating Characters](https://github.com/aakulalokesh2007-tech/leetcode-solutions/tree/d0e0c43def93c56401f7854fabb01d9e86c6db85/Longest%20Substring%20Without%20Repeating%20Characters) | 🟡 Medium | Strings | 7ms | 19.32 MB |
 
 
 *(Note: Click the problem title to view my documented solution)*
